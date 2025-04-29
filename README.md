@@ -1,2 +1,2 @@
 # python_101
-my python projects🧑‍💻
+my python projects 🧑‍💻
